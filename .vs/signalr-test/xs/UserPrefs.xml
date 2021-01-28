@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4C9BA6ED-7980-4F3D-97A1-6A305698A423}|Default">
+  <MonoDevelop.Ide.ItemProperties.signalr-test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F75565F5-73BB-40ED-9389-0A0E242F9188" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="signalr-test/ViewController.cs">
+    <Files>
+      <File FileName="signalr-test/Main.cs" Line="12" Column="50" />
+      <File FileName="signalr-test/ViewController.cs" Line="19" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="signalr-test" expanded="True">
+            <Node name="signalr-test" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

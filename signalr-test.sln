@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signalr-test", "signalr-test\signalr-test.csproj", "{4C9BA6ED-7980-4F3D-97A1-6A305698A423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4C9BA6ED-7980-4F3D-97A1-6A305698A423}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E228F74-313D-45CD-A5F4-2FB47AF98C77}
+	EndGlobalSection
+EndGlobal
